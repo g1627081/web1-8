@@ -16,16 +16,11 @@ background-color: mediumaquamarine;
 }
 #gnav a{
 	display:block;
-	padding:10px 0;
 	text-align:center;
 	text-decoration:none;
-	background:darkgreen;
 	color:white;
 }
-#gnav a:hover{
-	background:lightgreen;
-	color:black;
-}
+
 #gnav a:after{
 	clear:both;
 }
