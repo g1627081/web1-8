@@ -18,9 +18,14 @@ background-color: mediumaquamarine;
 	display:block;
 	text-align:center;
 	text-decoration:none;
+	padding:10px 0;
+	background:darkgreen;
 	color:white;
 }
-
+#gnav a:hover{
+	background:lightgreen;
+	color:black;
+}
 #gnav a:after{
 	clear:both;
 }
