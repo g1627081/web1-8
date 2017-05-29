@@ -50,14 +50,14 @@ background-color: mediumaquamarine;
 #gnav a:after{
 	clear:both;
 }
-#gnav a.img{
+#gnav div.img{
 	display:table-cell;
 	vertical-align:middle;
 	background:url(/img/css_rog.png) no-repeat;
 	width:55px;
 	height:46px;
 }
-#dnav div.text{
+#gnav div.text{
 	display:table-cell;
 	vertical-align:middle;
 	padding:10px 5px;
