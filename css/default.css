@@ -32,7 +32,7 @@ background-color: mediumaquamarine;
 #gnav a.img{
 	display:table-cell;
 	vertical-align:middle;
-	background:url(../img/css_sprite.jpg)no-repeat;
+	background:url(../img/css_rog.png)no-repeat;
 	width:55px;
 	height:46px;
 }
@@ -42,10 +42,10 @@ background-color: mediumaquamarine;
 	padding:10px 5px;
 }
 div.img#home{background-position:0 0px;}
-div.img#content1{background-position:46 0px;}
-div.img#content2{background-position:96 px;}
-div.img#help{background-position:138 px;}
-div.img#faq{background-position:183 0px;}
+div.img#content1{background-position:0 -46px;}
+div.img#content2{background-position:0 -92px;}
+div.img#help{background-position:0 -138px;}
+div.img#faq{background-position:0 -184px;}
 #gnav ul{
 	overflow:hidden;
 }
