@@ -27,7 +27,7 @@ background-color: mediumaquamarine;
 #gnav a.img{
 	display:table-cell;
 	vertical-align:middle;
-	background:url(../img/css_sprite.jpg/)no-repeat;
+	background:url(../img/css_sprite.jpg)no-repeat;
 	width:55px;
 	height:46px;
 }
